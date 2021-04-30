@@ -1,0 +1,2 @@
+Model, ROC AUC, Private Rank, Public Rank
+LogisticRegression, 0.97895, 2664, 2607
