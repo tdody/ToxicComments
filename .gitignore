@@ -2,3 +2,7 @@
 Dataset/
 Embeddings/
 env/
+Features/__pycache__
+data_helper/__pycache__
+sotoxic/__pycache__/
+sotoxic/config/__pycache__/
